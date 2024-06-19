@@ -50,7 +50,7 @@ print(type(False))
 
 print(type(true))
 
-"""
+
 
 t1=([1,2,3,4])
 
@@ -58,4 +58,4 @@ print(t1[-1])
 print(t1[0])
 
 
-
+"""
